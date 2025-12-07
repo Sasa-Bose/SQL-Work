@@ -141,10 +141,7 @@ Contains UI pages, CRUD operations, and database interaction logic.
 ## 🧭 How to Use
 1. Run the MySQL scripts from `inventory_management.sql`.  
 2. Ensure the MySQL server is running.  
-3. Install required Python libraries:  
-   ```bash
-   pip install streamlit mysql-connector-python pandas
-4. Run the application app.py
+3. Run the application app.py
 
 ---
 
